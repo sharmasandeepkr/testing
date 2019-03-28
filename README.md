@@ -1,4 +1,4 @@
-![alt text](https://github.com/sharmasandeepkr/testing/blob/master/images/signin.png | width=100 | height=100)
+![alt text](https://github.com/sharmasandeepkr/testing/blob/master/images/signin.png){:height="50%" width="50%"}
 
 # Project Title
 
