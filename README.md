@@ -1,6 +1,6 @@
 ![alt text](https://github.com/sharmasandeepkr/testing/blob/master/images/signin.png){:height="700px" width="400px"}
 
-<img src="https://github.com/sharmasandeepkr/testing/blob/master/images/signin.png" style="max-width:300px;max-height:300px;">
+<img src="https://github.com/sharmasandeepkr/testing/blob/master/images/signin.png" style="max-width:90px;max-height:90px;">
 # Project Title
 
 One Paragraph of project description goes here
