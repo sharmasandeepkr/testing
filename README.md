@@ -1,4 +1,4 @@
-![alt text](http://github.com/sharmasandeepkr/images/singin.png)
+![alt text](http://github.com/sharmasandeepkr/tree/master/images/singin.png)
 # Project Title
 
 One Paragraph of project description goes here
