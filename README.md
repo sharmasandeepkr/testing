@@ -1,4 +1,4 @@
-![alt text](https://github.com/sharmasandeepkr/testing/blob/master/images/signin.png =300*300)
+![alt text](https://github.com/sharmasandeepkr/testing/blob/master/images/signin.png =300x300)
 
 # Project Title
 
