@@ -1,5 +1,5 @@
 
-<img src="static/blogs/github/images/signin.png" style="max-width:90px;max-height:90px;">
+<img src="/static/blogs/github/images/signin.png" style="max-width:90px;max-height:90px;">
 # Project Title
 
 One Paragraph of project description goes here
