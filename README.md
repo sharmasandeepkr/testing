@@ -1,6 +1,6 @@
 
 <img src="images/signin.png" style="max-width:90px;max-height:90px;">
-# Project Title
+# Project 
 
 One Paragraph of project description goes here
 
