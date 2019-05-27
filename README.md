@@ -1,9 +1,6 @@
 
 <img src="images/signin.png" style="max-width:90px;max-height:90px;">
-Blackfriday
-[![Build Status][BuildSVG]][BuildURL]
-[![Godoc][GodocV2SVG]][GodocV2URL]
-===========
+
 
 Blackfriday is a [Markdown][1] processor implemented in [Go][2]. It
 is paranoid about its input (so you can safely feed it user-supplied
