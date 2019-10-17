@@ -4,7 +4,7 @@ data), it is fast, it supports common extensions (tables, smart
 punctuation substitutions, etc.), and it is safe for all utf-8
 (unicode) input.
 
-![Alt text] (images/signin.png)
+![](images/signin.png)
 
 HTML output is currently supported, along with Smartypants
 extensions.
