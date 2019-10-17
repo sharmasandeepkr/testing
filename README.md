@@ -1,6 +1,6 @@
 <img src="images/Career Page Image-3-01-01-01.jpg" style="max-width:90px;max-height:90px;">
 <img src="images/Career Page Image-3-01-01-01.jpg" style="max-width:90px;max-height:90px;">
-![Alt text] (https://github.com/sharmasandeepkr/testing/blob/master/images/signin.png)
+![Alt text] (images/signin.png)
 
 
 Blackfriday is a [Markdown][1] processor implemented in [Go][2]. It
