@@ -1,11 +1,10 @@
-![Alt text] (../images/signin.png)
-
-
 Blackfriday is a [Markdown][1] processor implemented in [Go][2]. It
 is paranoid about its input (so you can safely feed it user-supplied
 data), it is fast, it supports common extensions (tables, smart
 punctuation substitutions, etc.), and it is safe for all utf-8
 (unicode) input.
+
+![Alt text] (/images/signin.png)
 
 HTML output is currently supported, along with Smartypants
 extensions.
